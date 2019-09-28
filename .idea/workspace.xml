@@ -6,19 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dd33024-6ebd-4948-8714-8ec98dd4ff75" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/book-online/src/com/bo/listener/ContextLoaderListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-online/src/com/bo/controller/BookDetailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-online/src/com/bo/servlet/BookDetailServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-online/src/com/bo/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-online/src/com/bo/servlet/IndexServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-online/src/com/bo/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-online/src/com/bo/servlet/LoginServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-online/src/com/bo/controller/LoginPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-online/src/com/bo/servlet/LoginPageServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-online/src/com/bo/controller/LogoutController.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-online/src/com/bo/servlet/LogoutServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-online/src/com/bo/controller/UserPageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-online/src/com/bo/servlet/UserPageServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-online/src/com/bo/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-online/src/com/bo/service/BookService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book-online/src/com/bo/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-online/src/com/bo/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/web/student.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/web/student.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="2dd33024-6ebd-4948-8714-8ec98dd4ff75" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,6 +205,7 @@
       <workItem from="1569501226654" duration="13538000" />
       <workItem from="1569590882408" duration="400000" />
       <workItem from="1569591313713" duration="2607000" />
+      <workItem from="1569631448572" duration="807000" />
     </task>
     <task id="LOCAL-00001" summary="web-dev项目初始化两个模块：quickstart和book-online">
       <created>1569502761363</created>
